@@ -1,0 +1,23 @@
+@import url("https://fonts.googleapis.com/css2?family=Work+Sans:wght@300&display=swap");
+
+.App {
+  min-height: 100vh;
+  display: flex;
+  background-image: url("https://img.freepik.com/free-vector/dark-wavy-colors-background_23-2148403785.jpg?w=996&t=st=1695571482~exp=1695572082~hmac=c4d302ec796428f225f07f4547cd930a95809da54479763c54d2a722b81a1379");
+  background-position: center;
+  background-size: cover;
+  font-family: "'Courgette', cursive";
+}
+
+::-webkit-scrollbar {
+  width: 0px;
+}
+
+::-webkit-scrollbar-thumb {
+  background: rgba(136, 136, 136, 0.281);
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: #555;
+}
