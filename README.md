@@ -46,7 +46,7 @@ To run the project, follow these steps:
 3. Start the frontend application by running:
 `npm start`
 
-Once both the server and frontend are running, you can access the application in your web browser [localhost/3001](http://localhost:3000).
+Once both the server and front end are running, you can access the application in your web browser [localhost/3001](http://localhost:3000).
 
 
 ## ScreenShot 
@@ -58,4 +58,11 @@ Once both the server and frontend are running, you can access the application in
 ![image](https://github.com/Hansaraj09/ConnectHub/assets/93324559/6273b86c-acff-4d57-873d-36d7eac23d17)
 
 ![image](https://github.com/Hansaraj09/ConnectHub/assets/93324559/3b74a8ef-3f3c-4781-bfe6-6f7d8a02855c)
+
+
+## System Design
+
+![System Design](https://github.com/Hansaraj09/ConnectHub/assets/93324559/3785e612-f982-48ae-a895-1762746edf4f)
+
+
 
