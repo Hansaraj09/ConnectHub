@@ -49,7 +49,7 @@ To run the project, follow these steps:
 Once both the server and front end are running, you can access the application in your web browser [localhost/3001](http://localhost:3000).
 
 
-## ScreenShot 
+## ScreenShots
 
 ![image](https://github.com/Hansaraj09/ConnectHub/assets/93324559/999dea69-d993-4ce0-b2b4-317c60d821c6)
 
@@ -63,6 +63,20 @@ Once both the server and front end are running, you can access the application i
 ## System Design
 
 ![System Design](https://github.com/Hansaraj09/ConnectHub/assets/93324559/3785e612-f982-48ae-a895-1762746edf4f)
+
+1. This is a crisp system design of the application. The user either signs up or logs in where the information is stored in the database, from there the user enters the "Home Page". 
+2. Now the user can either privately chat with some other user by searching through the database or can create a group by setting the names of the group and adding other users and thus start messaging.
+
+## Dependencies
+
+1. **MERN** stack: MERN Stack is a compilation of four different technologies that work together to develop dynamic web apps and websites.
+    M-MongoDB: MongoDB is a NoSQL database that stores data in a flexible, schema-less format called JSON-like BSON (Binary JSON). It is designed to handle large volumes of data and is well-suited for 
+applications with rapidly changing data structures. MongoDB is commonly used to store and manage the application's data.
+    E-ExpressJS: Express.js is a web application framework for Node.js that simplifies the process of building robust and scalable server-side applications. 
+    R-ReactJS: React is a JavaScript library for building user interfaces. It allows developers to create interactive and dynamic web applications by breaking down the user interface into reusable components.
+    N-NodeJS: Node.js is a JavaScript runtime that allows developers to run JavaScript code on the server side. It's known for its non-blocking, event-driven architecture, making it suitable for building scalable and high-performance server applications.
+3. Bcrypt: Bcrypt is a hashing algorithm that transforms a plain text password into a fixed-length string of characters, called a hash. Bcrypt is a valuable tool to use to hash and store passwords.
+4. 
 
 
 
