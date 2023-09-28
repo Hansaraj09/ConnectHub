@@ -61,8 +61,8 @@ Once both the server and front end are running, you can access the application i
 
 
 ## System Design
+![image](https://github.com/Hansaraj09/ConnectHub/assets/93324559/04c74ddc-8c39-4337-914f-bbc3857e75a9)
 
-![System Design](https://github.com/Hansaraj09/ConnectHub/assets/93324559/3785e612-f982-48ae-a895-1762746edf4f)
 
 1. This is a crisp system design of the application. The user either signs up or logs in where the information is stored in the database, from there the user enters the "Home Page". 
 2. Now the user can either privately chat with some other user by searching through the database or can create a group by setting the names of the group and adding other users and thus start messaging.
