@@ -70,6 +70,7 @@ Once both the server and front end are running, you can access the application i
 ## Dependencies
 
 1. **MERN** stack: MERN Stack is a compilation of four different technologies that work together to develop dynamic web apps and websites.
+   
     M-MongoDB: MongoDB is a NoSQL database that stores data in a flexible, schema-less format called JSON-like BSON (Binary JSON). It is designed to handle large volumes of data and is well-suited for 
 applications with rapidly changing data structures. MongoDB is commonly used to store and manage the application's data.
 
@@ -79,11 +80,11 @@ applications with rapidly changing data structures. MongoDB is commonly used to 
    
     N-NodeJS: Node.js is a JavaScript runtime that allows developers to run JavaScript code on the server side. It's known for its non-blocking, event-driven architecture, making it suitable for building scalable and high-performance server applications.
    
-2. **Bcrypt**: Bcrypt is a hashing algorithm that transforms a plain text password into a fixed-length string of characters, called a hash. Bcrypt is a valuable tool to use to hash and store passwords.
+3. **Bcrypt**: Bcrypt is a hashing algorithm that transforms a plain text password into a fixed-length string of characters, called a hash. Bcrypt is a valuable tool that is used to hash and store passwords.
 
-3. **dotenv**: It is a popular Node.js module that simplifies the process of loading environment variables from a .env file into your Node.js application.
+4. **dotenv**: It is a popular Node.js module that simplifies the process of loading environment variables from a .env file into your Node.js application. It is generally used to store sensitive configuration data, such as API keys, database connection strings, or other settings that someone doesn't want to hardcode into his source code.
 
-4. **Socket.IO**: Socket.IO is a JavaScript library that enables real-time, bidirectional communication between clients (typically web browsers) and servers. It is commonly used to build interactive and dynamic web applications, online games, chat applications, collaborative tools, and any other application where real-time communication is essential.
+5. **Socket.IO**: Socket.IO is a JavaScript library that enables real-time, bidirectional communication between clients (typically web browsers) and servers. It is commonly used to build interactive and dynamic web applications, online games, chat applications, collaborative tools, and any other application where real-time communication is essential.
 
 
 
